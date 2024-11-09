@@ -1,0 +1,34 @@
+#title{
+    color: black;
+    background-color: #FF4545;
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background-color: #FCF596;
+}
+#img{
+    width: 35%;
+    height: auto;
+    display: block;
+    margin: auto;
+
+}
+#yunwen_background{
+    width: 360px;
+    height: auto;
+    background-color:#FF9C73;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 125%;
+    border-radius: 5px;
+}
+#space{
+    height: 50px;
+}
+#encourage{
+    background-color: #FBD288;
+    border-radius: 5px;
+    font-size: 110%;
+}
